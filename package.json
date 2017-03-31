@@ -1,0 +1,12 @@
+{
+  "name": "Tropics",
+  "version": "1.0.0",
+  "description": "Hey, I'm a bot that can do many things.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {}
+}
